@@ -1,12 +1,12 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "5.2.1",
+    "title": "Somos",
+    "name": "djbrandingsomos",
+    "version": "1.0.0",
     "scripts": {
         "start": "node app",
         "postinstall": "gulp default"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Somos store website salinas ca.",
     "keywords": [
         "css",
         "sass",
